@@ -1,0 +1,107 @@
+[
+  {
+    "id": "q001",
+    "question": "What is the capital of France?",
+    "expected_answer": "Paris is the capital of France.",
+    "category": "geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q002",
+    "question": "What is the powerhouse of the cell?",
+    "expected_answer": "The mitochondria is the powerhouse of the cell.",
+    "category": "biology",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q003",
+    "question": "What does HTTP stand for?",
+    "expected_answer": "HTTP stands for HyperText Transfer Protocol.",
+    "category": "technology",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q004",
+    "question": "What is the time complexity of binary search?",
+    "expected_answer": "Binary search has a time complexity of O(log n).",
+    "category": "computer science",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q005",
+    "question": "What is gradient descent in machine learning?",
+    "expected_answer": "Gradient descent is an optimization algorithm that minimizes a loss function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient.",
+    "category": "machine learning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q006",
+    "question": "What is a REST API?",
+    "expected_answer": "A REST API is an application programming interface that follows REST architectural constraints, using HTTP methods to perform operations on resources identified by URLs.",
+    "category": "technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q007",
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "expected_answer": "Supervised learning uses labeled training data to learn a mapping from inputs to outputs, while unsupervised learning finds patterns in unlabeled data without predefined correct answers.",
+    "category": "machine learning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q008",
+    "question": "What is a transformer model in deep learning?",
+    "expected_answer": "A transformer is a deep learning architecture that uses self-attention mechanisms to process sequential data in parallel, forming the basis of modern large language models.",
+    "category": "machine learning",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q009",
+    "question": "What is the CAP theorem in distributed systems?",
+    "expected_answer": "The CAP theorem states that a distributed system can only guarantee two of three properties simultaneously: Consistency, Availability, and Partition tolerance.",
+    "category": "computer science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q010",
+    "question": "What is retrieval augmented generation?",
+    "expected_answer": "Retrieval Augmented Generation or RAG is a technique that enhances LLM responses by retrieving relevant documents from an external knowledge base and providing them as context to the model.",
+    "category": "machine learning",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q011",
+    "question": "What is Docker?",
+    "expected_answer": "Docker is a platform for developing, shipping, and running applications in containers, which are lightweight isolated environments that package code and dependencies together.",
+    "category": "technology",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q012",
+    "question": "What is a neural network?",
+    "expected_answer": "A neural network is a machine learning model inspired by the human brain, consisting of layers of interconnected nodes that learn to map inputs to outputs through training.",
+    "category": "machine learning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q013",
+    "question": "What is overfitting in machine learning?",
+    "expected_answer": "Overfitting occurs when a model learns the training data too well including its noise and outliers, resulting in poor generalization to new unseen data.",
+    "category": "machine learning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q014",
+    "question": "What is a vector database?",
+    "expected_answer": "A vector database stores data as high-dimensional vectors and enables efficient similarity search, commonly used in AI applications for semantic search and RAG systems.",
+    "category": "technology",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q015",
+    "question": "What is the difference between a process and a thread?",
+    "expected_answer": "A process is an independent program in execution with its own memory space, while a thread is a lighter unit of execution that shares memory with other threads within the same process.",
+    "category": "computer science",
+    "difficulty": "medium"
+  }
+]
